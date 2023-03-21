@@ -6,7 +6,7 @@ I decided to enroll this bootcamp to learn new technologies and programming lang
 
 To see my profile in detail, I recommend to look at my LinkedIn profile.
 
-[![LinkedIn](https://linkedin.com/in/marianamedeirosfranco)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianamedeirosfranco)
 
 ## Skills
 
