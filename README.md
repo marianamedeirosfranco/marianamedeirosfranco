@@ -29,7 +29,7 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 ## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=marianamedeirosfranco&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m&hide=TeX&layout=compact&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianamedeirosfranco&hide=TeX&layout=compact&theme=prussian)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marianamedeirosfranco.marianamedeirosfranco)
 
